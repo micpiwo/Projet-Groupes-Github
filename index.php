@@ -18,6 +18,13 @@
             <li class="list-group-item">Ici la branche micfreelance</li>
             <li class="list-group-item">Un autre test</li>
         </ul>
+
+        <ul id="classe-liste-2" class="list-group">
+            <li class="list-group-item">Autre liste mic boulot</li>
+            <li class="list-group-item">Re test</li>
+        </ul>
+
+        <h2>Ici la branche mic maison</h2>
     </div>
 
 
