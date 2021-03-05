@@ -14,7 +14,7 @@
         <b>Un autre ajout</b>
 
 
-        <ul class="list-group">
+        <ul id="classe-liste" class="list-group">
             <li class="list-group-item">Ici la branche micfreelance</li>
             <li class="list-group-item">Un autre test</li>
         </ul>
